@@ -3,10 +3,10 @@ img {
 }
 
 img {
-    width: 180px;
-    border-radius: 60px;
+    width: 150px;
+    border-radius: 50px;
     float: left;
-    margin-right: 10px;
+    margin-right: 8px;
 }
 
 .new {
