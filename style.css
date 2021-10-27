@@ -9,22 +9,36 @@ img {
     margin-right: 8px;
 }
 
+h2 {
+    color: maroon;
+}
+
+h3 {
+    color: red;
+}
+
+h4 {
+    color: orange;
+}
+
+h5 {
+    color: sienna;
+}
+
+
+}
 .username {
     font-weight: bold;
 }
-
 .new {
     font-size: 20px;
 }
-
 .photo {
     height: 20px;
 }
-
 .Font {
     color: brown;
 }
-
 .para {
     color: red
 }
