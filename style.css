@@ -25,6 +25,18 @@ h5 {
     color: sienna;
 }
 
+a {
+    background-color: limegreen;
+}
+
+ul {
+    color: olive;
+}
+
+ol {
+    color: royalblue;
+}
+
 
 }
 .username {
@@ -41,4 +53,13 @@ h5 {
 }
 .para {
     color: red
+}
+div1 {
+    color: indigo;
+}
+div2 {
+    color: turquoise;
+}
+div3 {
+    color: hotpink;
 }
