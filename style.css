@@ -63,3 +63,8 @@ div2 {
 div3 {
     color: hotpink;
 }
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-style: oblique;
+}
