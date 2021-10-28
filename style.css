@@ -5,12 +5,33 @@ body {
     font-size: 15px;
     font-weight: normal;
     line-height: 1.2em;
+    margin: 0%;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.box-1 {
+    background-color: black;
+    color: white;
+    border-right: 5px red solid;
+    border-left: 5px red solid;
+    border-top: 5px red solid;
+    border-bottom: 5px red solid;
+    border-width: 3px;
+    border-bottom-width: 10px;
+    border-top-style: double;
+    border: 5px red solid;
+    padding: 25px;
+    margin: 20px;
 }
 
 img {
-    width: 180px;
+    width: 140px;
     border-radius: 50px;
-    float: right;
+    float: left;
     margin-right: 8px;
 }
 
