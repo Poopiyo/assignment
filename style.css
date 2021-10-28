@@ -1,43 +1,37 @@
-img {
-    heigh: 25px;
-}
-
-img {
-    width: 150px;
-    border-radius: 50px;
-    float: left;
-    margin-right: 8px;
-}
-
-h2 {
-    color: maroon;
-}
-
-h3 {
-    color: red;
-}
-
-h4 {
-    color: orange;
-}
-
-h5 {
-    color: sienna;
-}
-
-a {
-    background-color: limegreen;
-}
-
-ul {
-    color: olive;
-}
-
-ol {
-    color: royalblue;
-}
-
-
+    img {
+        width: 150px;
+        border-radius: 50px;
+        float: left;
+        margin-right: 8px;
+    }
+    
+    h2 {
+        color: maroon;
+    }
+    
+    h3 {
+        color: red;
+    }
+    
+    h4 {
+        color: orange;
+    }
+    
+    h5 {
+        color: sienna;
+    }
+    
+    a {
+        background-color: skyblue;
+    }
+    
+    ul {
+        color: olive;
+    }
+    
+    ol {
+        color: royalblue;
+    }
 }
 .username {
     font-weight: bold;
@@ -57,14 +51,23 @@ ol {
 div1 {
     color: indigo;
 }
+
+}
 div2 {
-    color: turquoise;
+    color: black;
 }
 div3 {
     color: hotpink;
-}
-p {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 16px;
-    font-style: oblique;
-}
+    p {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 16px;
+        font-style: oblique;
+        font-weight: normal;
+        line-height: 0.5cm;
+        margin: 0cm;
+    }
+    div {
+        background-color: lightgrey;
+        width: 80%;
+        margin: auto;
+    }
