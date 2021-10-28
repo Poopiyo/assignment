@@ -1,73 +1,44 @@
-    img {
-        width: 150px;
-        border-radius: 50px;
-        float: left;
-        margin-right: 8px;
-    }
-    
-    h2 {
-        color: maroon;
-    }
-    
-    h3 {
-        color: red;
-    }
-    
-    h4 {
-        color: orange;
-    }
-    
-    h5 {
-        color: sienna;
-    }
-    
-    a {
-        background-color: skyblue;
-    }
-    
-    ul {
-        color: olive;
-    }
-    
-    ol {
-        color: royalblue;
-    }
-}
-.username {
-    font-weight: bold;
-}
-.new {
-    font-size: 20px;
-}
-.photo {
-    height: 20px;
-}
-.Font {
-    color: brown;
-}
-.para {
-    color: red
-}
-div1 {
-    color: indigo;
+body {
+    background-color: lightgray;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+img {
+    width: 180px;
+    border-radius: 50px;
+    float: right;
+    margin-right: 8px;
 }
-div2 {
-    color: black;
+
+h1 {
+    color: maroon;
 }
-div3 {
-    color: hotpink;
-    p {
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        font-size: 16px;
-        font-style: oblique;
-        font-weight: normal;
-        line-height: 0.5cm;
-        margin: 0cm;
-    }
-    div {
-        background-color: lightgrey;
-        width: 80%;
-        margin: auto;
-    }
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: red;
+}
+
+h4 {
+    color: orange;
+}
+
+h5 {
+    color: sienna;
+}
+
+a {
+    background-color: skyblue;
+}
+
+ul {
+    color: olive;
+}
+
+ol {
+    color: royalblue;
+}
