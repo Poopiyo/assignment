@@ -105,7 +105,15 @@ img {
 }
 
 a {
-    background-color: skyblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: orangered;
+}
+
+a:active {
+    color: navy;
 }
 
 ul {
