@@ -101,6 +101,7 @@ img {
     text-decoration: underline;
     text-transform: uppercase;
     letter-spacing: 0.1em;
+    color: red;
 }
 
 a {
@@ -113,4 +114,31 @@ ul {
 
 ol {
     color: royalblue;
+}
+
+body h2 {
+    font-style: italic;
+    font-weight: 900;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: red;
+}
+
+body h3 {
+    font-style: italic;
+    font-weight: 900;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: red;
+}
+
+body h4 {
+    font-style: italic;
+    font-weight: 900;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: red;
 }
